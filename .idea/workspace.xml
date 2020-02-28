@@ -6,7 +6,6 @@
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Stock_Updates/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Stock_Updates/.idea/Stock_Updates.iml" afterDir="false" />
@@ -953,6 +952,8 @@
       <change afterPath="$PROJECT_DIR$/../Stock_Updates/venv/lib/python3.6/site-packages/zope/interface/verify.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Diagram.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Diagram.ucls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ScreenShots/HomePage.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ScreenShots/LaundriesList.png" beforeDir="false" />
@@ -1077,7 +1078,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YQf33DvshGWVY4NW6ciHnpjELj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -1115,7 +1116,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582879535426</updated>
-      <workItem from="1582879536828" duration="9479000" />
+      <workItem from="1582879536828" duration="10592000" />
     </task>
     <servers />
   </component>
